@@ -1,4 +1,6 @@
-## Mastodon with modern birdsite-like UI
+## Mastodon with modern birdsite-like UI (Nord Theme Colors)
+
+This fork is working on replacing all the colors to Nord Theme https://www.nordtheme.com/
 
 [![Build Status for CSS](https://github.com/ronilaukkarinen/mastodon-bird-ui/actions/workflows/styles.yml/badge.svg)](https://github.com/ronilaukkarinen/mastodon-bird-ui/actions/workflows/styles.yml) [![Supported Mastodon version](https://img.shields.io/badge/mastodon-v4.1.4-595aff)](https://github.com/mastodon/mastodon)
 
