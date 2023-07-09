@@ -13,7 +13,7 @@
   --color-brand-twitter-dark: #3B4252;
   --color-brand-twitter-threaded-line: #425364;
   --color-brand-mastodon: #5E81AC;
-  --color-brand-mastodon-links: #88C0D0;
+  --color-brand-mastodon-links: #B48EAD;
   --color-brand-mastodon-bg: #2E3440;
   --color-brand-mastodon-dim: #D8DEE9;
   --color-brand-mastodon-mud: #434C5E;
@@ -31,10 +31,10 @@
   --color-dim: var(--color-brand-mastodon-dim);
   --color-accent: var(--color-brand-mastodon-links);
   --color-accent-dark: var(--color-brand-mastodon);
-  --color-green: #00ba7c;
-  --color-red: #f91880;
-  --color-red-75: #f91880bf;
-  --color-yellow: #ffac33;
+  --color-green: #A3BE8C;
+  --color-red: #BF616A;
+  --color-red-75: #BF616A;
+  --color-yellow: #EBCB8B;
   --color-light-shade: #ffffff05;
   --color-focusable-toot: #ffffff09;
   --color-light-text: #f7f9f9;
@@ -51,9 +51,9 @@
   --color-dark-electric-blue: #576078;
   --color-button-text: #f7f9f9;
   --color-ghost-button-text: var(--color-button-text);
-  --color-verified: #79bd9a;
-  --color-destructive: #df405a;
-  --color-light-fuchsia-pink: #ff8cfd;
+  --color-verified: ##A3BE8C;
+  --color-destructive: #BF616A;
+  --color-light-fuchsia-pink: #B48EAD;
   --color-hashtag: var(--color-accent);
   --color-mention: var(--color-accent);
   --color-link: var(--color-accent);
