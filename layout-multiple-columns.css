@@ -29,10 +29,10 @@
   --color-dim: var(--color-brand-mastodon-dim);
   --color-accent: var(--color-brand-mastodon-links);
   --color-accent-dark: var(--color-brand-mastodon);
-  --color-green: #00ba7c;
-  --color-red: #f91880;
+  --color-green: #A3BE8C;
+  --color-red: #BF616A;
   --color-red-75: #f91880bf;
-  --color-yellow: #ffac33;
+  --color-yellow: #EBCB8B;
   --color-light-shade: #ffffff05;
   --color-focusable-toot: #ffffff09;
   --color-light-text: #f7f9f9;
@@ -51,7 +51,7 @@
   --color-ghost-button-text: var(--color-button-text);
   --color-verified: #79bd9a;
   --color-destructive: #df405a;
-  --color-light-fuchsia-pink: #ff8cfd;
+  --color-light-fuchsia-pink: #B48EAD;
   --color-hashtag: var(--color-accent);
   --color-mention: var(--color-accent);
   --color-link: var(--color-accent);
