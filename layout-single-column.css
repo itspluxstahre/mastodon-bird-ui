@@ -1,3 +1,5 @@
+
+
 /* Mastodon Bird UI by @rolle@mementomori.social
    1.6.1 */
 
@@ -5,19 +7,19 @@
 :root {
   /* Brand colors */
   --color-brand-twitter: #1d9bf0;
-  --color-brand-twitter-bg: #15202b;
-  --color-brand-twitter-dim: #8b98a5;
-  --color-brand-twitter-mud: #273340;
-  --color-brand-twitter-dark: #232543;
+  --color-brand-twitter-bg: #2E3440;
+  --color-brand-twitter-dim: #4C566A;
+  --color-brand-twitter-mud: #434C5E;
+  --color-brand-twitter-dark: #3B4252;
   --color-brand-twitter-threaded-line: #425364;
-  --color-brand-mastodon: #595aff;
-  --color-brand-mastodon-links: #8c8dff;
-  --color-brand-mastodon-bg: #1e2028;
-  --color-brand-mastodon-dim: #717c9b;
-  --color-brand-mastodon-mud: #272c40;
-  --color-brand-mastodon-dark: #232543;
+  --color-brand-mastodon: #5E81AC;
+  --color-brand-mastodon-links: #88C0D0;
+  --color-brand-mastodon-bg: #2E3440;
+  --color-brand-mastodon-dim: #4C566A;
+  --color-brand-mastodon-mud: #434C5E;
+  --color-brand-mastodon-dark: #3B4252;
   --color-brand-mastodon-threaded-line: #434264;
-  --color-brand-mastodon-text-light: #8493a7;
+  --color-brand-mastodon-text-light: #D8DEE9;
 
   /* Colors */
   /* Note: Remember to search for the DIM hex
@@ -4213,4 +4215,4 @@ body.embed .entry .detailed-status {
 /*
  * Star animation micro-interactions end
  * -------------------------------------
- */
+ */  
